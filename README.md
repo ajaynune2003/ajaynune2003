@@ -1,7 +1,8 @@
 Hi, I’m AJAY NUNE 
-__________________________________________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________________________________
 
-About Me
+About Me:
+
 Hey There! I'm ajay,i have completed my bachelor of technology in the stream of computer science engineering , i have passion for coding and creating new innovation solutions, this README is my playground to showcase my journey,skills, and aspiration. Let's dive on!
 
 SKILLS :
