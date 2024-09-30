@@ -20,7 +20,7 @@ Achievments:
 Connect With Me:
 * E-mail:hollypoterr@gmail.com
 * github:
-* linkdin:
+* linkdin:www.linkedin.com/in/ajaynune1
 * contact:6305243154
 
 Feedback Welcome:
