@@ -14,8 +14,13 @@ SKILLS :
 * Intrests: problem solving, competative programmming,
 
 Projects:
+Title:   college-webpage                                                                                                            Duration: 3- Days
+* Developed and designed a responsive college webpage using HTML and CSS, implementing modern styling techniques and optimizing for cross-browser compatibility.(view)
 
 Achievments:
+* I’am Achieved a score of 531 in the PGECET exam, demonstrating strong analytical and problem-solving skills. Earned certification, reflecting commitment to academic excellence and continuous 
+   learning. 
+* Achieved certification as a shuttle player from the National Sports and Physical Fitness Board, highlighting dedication to physical fitness and competitive sportsmanship. 
 
 Connect With Me:
 * E-mail:hollypoterr@gmail.com
