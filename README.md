@@ -14,7 +14,8 @@ SKILLS :
 * Intrests: problem solving, competative programmming,
 
 Projects:
-Title:   college-webpage                                                                                                            Duration: 3- Days
+
+Title:   college-webpage                                                                                                                                                     Duration: 3- Days
 * Developed and designed a responsive college webpage using HTML and CSS, implementing modern styling techniques and optimizing for cross-browser compatibility.(view)
 
 Achievments:
