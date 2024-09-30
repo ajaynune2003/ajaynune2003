@@ -24,5 +24,5 @@ Connect With Me:
 * contact:6305243154
 
 Feedback Welcome:
-*I'm growing as a developer, so i always welcome constructive feedback and suggestions.feel free to reach out to
+* I'm growing as a developer, so i always welcome constructive feedback and suggestions.feel free to reach out to
 me on any platfrom above,and lets connect!
